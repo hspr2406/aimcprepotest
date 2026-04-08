@@ -6,6 +6,8 @@ A beginner-friendly demo project exploring AI capabilities using the Claude API.
 
 This project demonstrates how to interact with AI models programmatically — a first step into building AI-powered applications. It covers basic API usage, sending prompts, and handling responses.
 
+> **Note:** This demo will be presented in online mode.
+
 ## Features
 
 - Connect to the Claude AI API
